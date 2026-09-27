@@ -3,8 +3,8 @@
 [Judul]
 
 Anggota Kelompok: 
-Ali Riza Alayubi (NRP: 507261020),
-Farras Ananda Pramana (NRP: 507261068),
+Ali Riza Alayubi (NRP: 5027261020),
+Farras Ananda Pramana (NRP: 5027261068),
 Maghfur Nara (NRP: 5027261129)
 
 Topik Project: Smart City 
