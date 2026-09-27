@@ -2,7 +2,7 @@
 
 Repositori ini disusun untuk memenuhi tugas Proyek 1: Eksplorasi Data. Fokus dari proyek ini adalah melakukan pengenalan awal terhadap data (Exploratory Data Analysis / EDA) yang meliputi pemahaman struktur data, pengecekan data kosong, statistik deskriptif, serta visualisasi data awal tanpa menggunakan uji hipotesis atau machine learning.
 
-## :busts_in_silhouette: Anggota Kelompok 
+## : Anggota Kelompok (Kelompok 15)
 Ali Riza Alayubi (NRP: 5027261020),
 Farras Ananda Pramana (NRP: 5027261068),
 Maghfur Nara (NRP: 5027261129)
