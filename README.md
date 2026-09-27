@@ -1,6 +1,6 @@
-# statprob-proyek-1-eda
+# Statprob-Proyek-1-EDA
 
-[Judul]
+Repositori ini disusun untuk memenuhi tugas Proyek 1: Eksplorasi Data. Fokus dari proyek ini adalah melakukan pengenalan awal terhadap data (Exploratory Data Analysis / EDA) yang meliputi pemahaman struktur data, pengecekan data kosong, statistik deskriptif, serta visualisasi data awal tanpa menggunakan uji hipotesis atau machine learning.
 
 Anggota Kelompok: 
 Ali Riza Alayubi (NRP: 5027261020),
